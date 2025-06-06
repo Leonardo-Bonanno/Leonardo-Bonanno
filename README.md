@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Leonardo Bonanno
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Bonanno&layout=compact&theme=dark)
 
 <!--
 **Leonardo-Bonanno/Leonardo-Bonanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

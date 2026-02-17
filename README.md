@@ -4,7 +4,7 @@
 🚀 Apaixonado por desenvolvimento, arquitetura e boas práticas<br>
 🔌 Experiência com APIs públicas (Habbo, integrações externas)
 
-<div align="center">
+<div>
 
 <!--<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=leonardo-bonanno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
 
